@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 title: "QGISSPARQL: Bidirectional Integration between Linked Data and Geographic Information Systems"
-date-released: 2026-10-02 # A data de hoje ou da release
+date-released: 2026-10-02
 doi: "10.5281/zenodo.23102044
 authors:
   - family-names: "Souza Costa"
