@@ -1,6 +1,7 @@
 # QGISSPARQL
 
    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23102044.svg)](https://doi.org/10.5281/zenodo.23102044)
+   [![INPI Registered](https://img.shields.io/badge/INPI-RPC%20BR512026003805--7-004B87?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHptLTUtOWgydjJoLTJ2LTJ6bTQgMGgydjJoLTJ2LTJ6bTQgMGgydjJoLTJ2LTJ6Ii8+PC9zdmc+)](https://www.gov.br/inpi/pt-br)
 
 **QGISSPARQL** is a QGIS plugin that enables **bidirectional integration between Linked Data (RDF/SPARQL) and Geographic Information Systems (GIS)**.
 
@@ -162,19 +163,27 @@ Universidade Federal do Maranhão (UFMA)
 
 ---
 
-## 📖 Citation
+## 📜 Registration and Intellectual Property
 
-If you use this software, please cite:
+This software is an open-source project, but it holds an official intellectual property registration in Brazil, guaranteeing authorship and institutional ownership.
 
-```bibtex
-@article{costa2026qgissparql,
-  author  = {Costa, Sergio Souza and Santos Junior, Nerval and Sousa, Felipe Martins and Alves, Jose Magno Pinheiro and Bezerra, Denilson da Silva},
-  title   = {QGISSPARQL: Bidirectional Integration between Linked Data and Geographic Information Systems},
-  journal = {Journal of Open Source Software},
-  year    = {2026},
-  note    = {Under review}
-}
-```
+- **Issuing Body:** National Institute of Industrial Property (INPI), Brazil
+- **Process No.:** BR512026003805-7
+- **Titleholder:** Universidade Federal do Maranhão (UFMA)
+- **Registered Authors:** Denilson da Silva Bezerra, Sérgio Souza Costa, Nerval de Jesus Santos Junior, Felipe Martins Sousa, José Magno Pinheiro Alves.
+- **Creation Date:** 31/01/2023
+- **Programming Language:** Python
+- **Field of Application:** IF-07 (Information Technology)
+- **Program Type:** UT-03 (Utility Software)
+- **SHA-256 Hash Summary:** `0b0e506b0a607fcdd8f6c7f531bb3c68be2da662bdf9f681f43f8a95a97c1b23`
+
+> 💡 **Note:** The INPI registration protects the expression of the code under national law, while the Zenodo DOI (above) facilitates international academic citation and scientific reproducibility of specific software versions.
+
+## 📚 How to Cite
+
+If you use QGISSPARQL in your research, please cite it using the official DOI:
+
+> Costa, S. S., Bezerra, D. S., Santos Junior, N. de J., Sousa, F. M., & Alves, J. M. P. (2026). *QGISSPARQL* (Version X.X.X) [Computer software]. Universidade Federal do Maranhão. INPI Registration: BR512026003805-7. https://doi.org/10.5281/zenodo.YOUR_NUMBER_HERE
 
 ---
 
