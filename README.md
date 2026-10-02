@@ -1,5 +1,7 @@
 # QGISSPARQL
 
+   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23102044.svg)](https://doi.org/10.5281/zenodo.23102044)
+
 **QGISSPARQL** is a QGIS plugin that enables **bidirectional integration between Linked Data (RDF/SPARQL) and Geographic Information Systems (GIS)**.
 
 It allows users to both:
